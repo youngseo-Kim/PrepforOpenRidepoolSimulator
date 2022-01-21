@@ -8,6 +8,6 @@ Generated data will be saved in _/data_. Note the 'data' folder is exactly in th
 
 ## Contributors
 
-Youngeso Kim (yk796@cornell.edu)
-Michael P Wilbur (michael.p.wilbur@vanderbilt.edu)
-Matthew Zalesak (mdz32@cornell.edu)
+- Youngeso Kim (yk796@cornell.edu)
+- Michael P Wilbur (michael.p.wilbur@vanderbilt.edu)
+- Matthew Zalesak (mdz32@cornell.edu)
